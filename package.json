@@ -1,7 +1,7 @@
 {
   "name": "prefixed-eth-account",
   "version": "1.0.0",
-  "description": "A tool to create an ethereum account with the given address prefix.",
+  "description": "A tool to create an ethereum account with given address prefix.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
