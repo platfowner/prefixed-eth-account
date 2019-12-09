@@ -1,0 +1,29 @@
+{
+  "name": "prefixed-eth-account",
+  "version": "1.0.0",
+  "description": "A tool to create an ethereum account with the given address prefix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/platfowner/prefixed-eth-account.git"
+  },
+  "keywords": [
+    "ethereum",
+    "account",
+    "prefix",
+    "address"
+  ],
+  "author": "platfowner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/platfowner/prefixed-eth-account/issues"
+  },
+  "homepage": "https://github.com/platfowner/prefixed-eth-account#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "web3-eth-accounts": "^1.2.4"
+  }
+}
